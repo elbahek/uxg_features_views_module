@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the UXG Features - Views Module feature.
+ */
+
+include_once 'uxg_features_views_module.features.inc';
